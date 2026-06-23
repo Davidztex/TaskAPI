@@ -1,0 +1,7 @@
+package com.david.todoapp.model;
+
+public enum TaskStatus {
+    PENDING,
+    COMPLETED,
+    IN_PROGRESS,
+}
